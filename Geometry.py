@@ -1,6 +1,4 @@
 import numpy as np
-from PIL import Image
-from Post_process import*
 
 def isRectIntersect(D1,D2):
     '''
